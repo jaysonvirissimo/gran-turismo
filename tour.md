@@ -1,18 +1,13 @@
 # Grand Tour
 ## [Nice](http://wikitravel.org/en/Nice) (18th)
-
-## [Marseilles](http://wikitravel.org/en/Marseille)
-  - [Château d'If](https://en.wikipedia.org/wiki/Ch%C3%A2teau_d'If)
-
-## [Kandersteg](http://wikitravel.org/en/Kandersteg)
-
-## [Lucerne](http://wikitravel.org/en/Lucerne)
-
-## [Milan](http://wikitravel.org/en/Milan)
+## [Èze](https://en.wikipedia.org/wiki/%C3%88ze) (18-19th)
+## [Monaco](http://wikitravel.org/en/Monaco) (19-20th)
+## [Cinque Terre](http://wikitravel.org/en/Cinque_Terre) (20-23rd)
+## [Milano](http://wikitravel.org/en/Milan) (23-26th)
   - [Milan Cathedral](https://en.wikipedia.org/wiki/Milan_Cathedral)
-  - [Museo della Scienza e della Tecnologia "Leonardo da Vinci"](Museo della Scienza e della Tecnologia "Leonardo da Vinci")
+  - [Museo della Scienza e della Tecnologia "Leonardo da Vinci"](http://www.museoscienza.org/)
   - [Sforza Castle](https://en.wikipedia.org/wiki/Sforza_Castle)
-
-## [Cinque Terre](http://wikitravel.org/en/Cinque_Terre)
-
-## [Monaco](http://wikitravel.org/en/Monaco)
+## [Lucerne](http://wikitravel.org/en/Lucerne) (26-30th)
+## [Marseilles](http://wikitravel.org/en/Marseille) (30-31st)
+  - [Château d'If](https://en.wikipedia.org/wiki/Ch%C3%A2teau_d'If)
+## [Saint-Tropez](https://en.wikipedia.org/wiki/Saint-Tropez) (31st)
