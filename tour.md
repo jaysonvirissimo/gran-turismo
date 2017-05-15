@@ -14,6 +14,8 @@
   - [Oceanographic Museum and Aquarium](https://en.wikipedia.org/wiki/Oceanographic_Museum)
 ## [Cinque Terre](http://wikitravel.org/en/Cinque_Terre) (20-23rd)
 ## [Milano](http://wikitravel.org/en/Milan) (23-25th)
+  - [Hotel Glam Milano](https://www.glamhotelmilano.it/en/)
+    - Piazza Duca D'Aosta 4/6, Milan 20124s
   - [Milan Cathedral](https://en.wikipedia.org/wiki/Milan_Cathedral)
   - [Museo della Scienza e della Tecnologia "Leonardo da Vinci"](http://www.museoscienza.org/)
   - [Sforza Castle](https://en.wikipedia.org/wiki/Sforza_Castle)
