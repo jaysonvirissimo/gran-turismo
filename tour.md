@@ -20,6 +20,7 @@
   - [Museo della Scienza e della Tecnologia "Leonardo da Vinci"](http://www.museoscienza.org/)
   - [Sforza Castle](https://en.wikipedia.org/wiki/Sforza_Castle)
 ## [Lucerne](http://wikitravel.org/en/Lucerne) (25-29th)
+  - Unterlöchlistrasse 19, Luzern, Luzern 6006, Switzerland
   - [Lion Monument](https://en.wikipedia.org/wiki/Lion_Monument)
 ## [Marseilles](http://wikitravel.org/en/Marseille) (29-30th)
   - [Château d'If](https://en.wikipedia.org/wiki/Ch%C3%A2teau_d'If)
