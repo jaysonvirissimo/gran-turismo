@@ -25,3 +25,6 @@
 ## [Marseilles](http://wikitravel.org/en/Marseille) (29-30th)
   - [Château d'If](https://en.wikipedia.org/wiki/Ch%C3%A2teau_d'If)
 ## [Saint-Tropez](https://en.wikipedia.org/wiki/Saint-Tropez) (31st)
+## Nice
+  - Campanile Nice Airport
+    - 459-461 Promenade Des Anglais, Nice, Alpes-Maritimes, 06200 France
