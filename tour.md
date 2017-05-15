@@ -24,8 +24,12 @@
   - Unterlöchlistrasse 19, Luzern, Luzern 6006, Switzerland
   - [Lion Monument](https://en.wikipedia.org/wiki/Lion_Monument)
 ## [Marseilles](http://wikitravel.org/en/Marseille) (29-30th)
+  - NH Marseilles Palm Beach
+    - 200 Corniche President John Fitzgerald Kennedy, 13008, Marseilles, +33 4 91161900
   - [Château d'If](https://en.wikipedia.org/wiki/Ch%C3%A2teau_d'If)
-## [Saint-Tropez](https://en.wikipedia.org/wiki/Saint-Tropez) (31st)
+## [Saint-Tropez](https://en.wikipedia.org/wiki/Saint-Tropez) (30-31st)
+  - Bastide Du Port
+    - Port Du Pilon, 83990, Saint-Tropez, +33 4 94978795
 ## Nice
   - Campanile Nice Airport
     - 459-461 Promenade Des Anglais, Nice, Alpes-Maritimes, 06200 France
