@@ -1,4 +1,10 @@
 # Grand Tour
+## [Dublin](http://wikitravel.org/en/Dublin) (17-18th)
+  - [Maldron Hotel Dublin Airport](http://www.maldronhoteldublinairport.com/)
+    Maldron Hotel Dublin Airport
+    Dublin Airport
+    Co Dublin
+  - Old Library at Trinity College & Book of Kells
 ## [Nice](http://wikitravel.org/en/Nice) (18th)
 ## [Èze](https://en.wikipedia.org/wiki/%C3%88ze) (18-19th)
 ## [Monaco](http://wikitravel.org/en/Monaco) (19-20th)
