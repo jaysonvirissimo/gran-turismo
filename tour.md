@@ -13,6 +13,7 @@
 ## [Monaco](http://wikitravel.org/en/Monaco) (19-20th)
   - [Oceanographic Museum and Aquarium](https://en.wikipedia.org/wiki/Oceanographic_Museum)
 ## [Cinque Terre](http://wikitravel.org/en/Cinque_Terre) (20-23rd)
+  - Via del Santuario, Riomaggiore, +39 3280471942
 ## [Milano](http://wikitravel.org/en/Milan) (23-25th)
   - [Hotel Glam Milano](https://www.glamhotelmilano.it/en/)
     - Piazza Duca D'Aosta 4/6, Milan 20124s
